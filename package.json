@@ -1,5 +1,5 @@
 {
-  "homepage": "https://alldeus.github.io",
+  "homepage": "https://alldeus.github.io/SPHERE-3js/",
   "name": "sphere-3js",
   "private": false,
   "version": "0.0.0",
@@ -9,7 +9,7 @@
     "build": "vite build",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
   "devDependencies": {
     "gh-pages": "^4.0.0",
